@@ -1,0 +1,417 @@
+{
+    "admin@gmail.com": {
+        "password": "Phuc123@",
+        "role": "admin",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user2@gmail.com": {
+        "password": "abc123",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user3@gmail.com": {
+        "password": "pass789",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user4@gmail.com": {
+        "password": "user444",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "hongp8003@gmail.com": {
+        "password": "Phuc12",
+        "role": "admin",
+        "borrowed_books": [],
+        "history": []
+    },
+    "hongp1@gmail.com": {
+        "password": "Phuc12",
+        "role": "user",
+        "borrowed_books": [
+            {
+                "book_name": "Kinh Tế Vĩ Mô",
+                "author": "Samuelson",
+                "date": "2014-07-07",
+                "category": "Kinh tế",
+                "quantity": 3,
+                "status": "borrowed",
+                "borrow_date": "2025-12-06",
+                "due_date": "2025-12-20"
+            },
+            {
+                "book_name": "Toán Rời Rạc",
+                "author": "Kenneth Rosen",
+                "date": "2019-04-02",
+                "category": "Toán",
+                "quantity": 2,
+                "status": "borrowed",
+                "borrow_date": "2025-12-06",
+                "due_date": "2025-12-20"
+            },
+            {
+                "book_name": "Thiết Kế Game",
+                "author": "Unity",
+                "date": "2021-06-15",
+                "category": "Game",
+                "quantity": 2,
+                "status": "borrowed",
+                "borrow_date": "2025-12-09",
+                "due_date": "2025-12-23"
+            },
+            {
+                "book_name": "Lập Trình Python Cơ Bản",
+                "author": "Ngô Hồng Phúc",
+                "date": "2022-01-10",
+                "category": "Lập trình",
+                "quantity": 4,
+                "status": "borrowed",
+                "borrow_date": "2025-12-09",
+                "due_date": "2025-12-23"
+            }
+        ],
+        "history": [
+            {
+                "book_name": "Game Engine Unreal",
+                "author": "Epic",
+                "date": "2020-12-12",
+                "category": "Game",
+                "quantity": 1,
+                "borrow_date": "2025-12-06",
+                "due_date": "2025-12-20",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Kinh Tế Vĩ Mô",
+                "author": "Samuelson",
+                "date": "2014-07-07",
+                "category": "Kinh tế",
+                "quantity": 3,
+                "borrow_date": "2025-12-06",
+                "due_date": "2025-12-20",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Toán Rời Rạc",
+                "author": "Kenneth Rosen",
+                "date": "2019-04-02",
+                "category": "Toán",
+                "quantity": 2,
+                "borrow_date": "2025-12-06",
+                "due_date": "2025-12-20",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Game Engine Unreal",
+                "author": "Epic",
+                "quantity": 1,
+                "action": "force_return",
+                "return_date": "2025-12-08",
+                "borrow_date": "2025-12-06",
+                "due_date": "2025-12-20",
+                "fine": 0
+            },
+            {
+                "book_name": "Thiết Kế Game",
+                "author": "Unity",
+                "date": "2021-06-15",
+                "category": "Game",
+                "quantity": 3,
+                "borrow_date": "2025-12-09",
+                "due_date": "2025-12-23",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Lập Trình Python Cơ Bản",
+                "author": "Ngô Hồng Phúc",
+                "date": "2022-01-10",
+                "category": "Lập trình",
+                "quantity": 4,
+                "borrow_date": "2025-12-09",
+                "due_date": "2025-12-23",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Thiết Kế Game",
+                "author": "Unity",
+                "quantity": 2,
+                "action": "return",
+                "return_date": "2025-12-09",
+                "borrow_date": "2025-12-09",
+                "due_date": "2025-12-23",
+                "fine": 0
+            },
+            {
+                "book_name": "Thiết Kế Game",
+                "author": "Unity",
+                "date": "2021-06-15",
+                "category": "Game",
+                "quantity": 1,
+                "borrow_date": "2025-12-09",
+                "due_date": "2025-12-23",
+                "action": "borrow"
+            }
+        ]
+    },
+    "user5@gmail.com": {
+        "password": "user555",
+        "role": "user",
+        "borrowed_books": [],
+        "history": [
+            {
+                "book_name": "Kỹ Năng Mềm",
+                "author": "Dale Carnegie",
+                "date": "2018-02-02",
+                "category": "Kỹ năng",
+                "quantity": 1,
+                "borrow_date": "2025-12-01",
+                "due_date": "2025-12-15",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Kỹ Năng Mềm",
+                "author": "Dale Carnegie",
+                "quantity": 1,
+                "action": "return",
+                "return_date": "2025-12-07",
+                "borrow_date": "2025-12-01",
+                "due_date": "2025-12-15",
+                "fine": 0
+            }
+        ]
+    },
+    "user6@gmail.com": {
+        "password": "pass666",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user7@gmail.com": {
+        "password": "user777",
+        "role": "user",
+        "borrowed_books": [
+            {
+                "book_name": "Cấu Trúc Dữ Liệu & Giải Thuật",
+                "author": "Trần Văn Thọ",
+                "date": "2021-09-12",
+                "category": "Kỹ thuật",
+                "quantity": 1,
+                "status": "borrowed",
+                "borrow_date": "2025-12-08",
+                "due_date": "2025-12-22"
+            }
+        ],
+        "history": [
+            {
+                "book_name": "Cấu Trúc Dữ Liệu & Giải Thuật",
+                "author": "Trần Văn Thọ",
+                "date": "2021-09-12",
+                "category": "Kỹ thuật",
+                "quantity": 1,
+                "borrow_date": "2025-12-08",
+                "due_date": "2025-12-22",
+                "action": "borrow"
+            }
+        ]
+    },
+    "user8@gmail.com": {
+        "password": "pass888",
+        "role": "user",
+        "borrowed_books": [
+            {
+                "book_name": "Java Cơ Bản",
+                "author": "James Gosling",
+                "date": "2020-03-12",
+                "category": "Lập trình",
+                "quantity": 2,
+                "status": "borrowed",
+                "borrow_date": "2025-12-05",
+                "due_date": "2025-12-19"
+            }
+        ],
+        "history": [
+            {
+                "book_name": "Java Cơ Bản",
+                "author": "James Gosling",
+                "date": "2020-03-12",
+                "category": "Lập trình",
+                "quantity": 2,
+                "borrow_date": "2025-12-05",
+                "due_date": "2025-12-19",
+                "action": "borrow"
+            }
+        ]
+    },
+    "user9@gmail.com": {
+        "password": "user999",
+        "role": "user",
+        "borrowed_books": [],
+        "history": [
+            {
+                "book_name": "Nhập Môn AI",
+                "author": "Russell & Norvig",
+                "date": "2020-06-06",
+                "category": "AI",
+                "quantity": 1,
+                "borrow_date": "2025-11-20",
+                "due_date": "2025-12-04",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Nhập Môn AI",
+                "author": "Russell & Norvig",
+                "quantity": 1,
+                "action": "return",
+                "return_date": "2025-12-06",
+                "borrow_date": "2025-11-20",
+                "due_date": "2025-12-04",
+                "fine": 0
+            }
+        ]
+    },
+    "user10@gmail.com": {
+        "password": "pass1010",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user11@gmail.com": {
+        "password": "user1111",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user12@gmail.com": {
+        "password": "pass1212",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user13@gmail.com": {
+        "password": "user1313",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user14@gmail.com": {
+        "password": "pass1414",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user15@gmail.com": {
+        "password": "user1515",
+        "role": "user",
+        "borrowed_books": [
+            {
+                "book_name": "Tâm Lý Học Lập Trình",
+                "author": "Gerald Weinberg",
+                "date": "2015-09-01",
+                "category": "Kỹ năng",
+                "quantity": 1,
+                "status": "borrowed",
+                "borrow_date": "2025-12-09",
+                "due_date": "2025-12-23"
+            },
+            {
+                "book_name": "Nhập Môn Mạng Máy Tính",
+                "author": "Andrew Tanenbaum",
+                "date": "2018-03-15",
+                "category": "Mạng máy tính",
+                "quantity": 2,
+                "status": "borrowed",
+                "borrow_date": "2025-12-13",
+                "due_date": "2025-12-14"
+            },
+            {
+                "book_name": "Toán Rời Rạc",
+                "author": "Kenneth Rosen",
+                "date": "2019-04-02",
+                "category": "Toán",
+                "quantity": 2,
+                "status": "borrowed",
+                "borrow_date": "2025-12-13",
+                "due_date": "2025-12-20"
+            }
+        ],
+        "history": [
+            {
+                "book_name": "Tâm Lý Học Lập Trình",
+                "author": "Gerald Weinberg",
+                "date": "2015-09-01",
+                "category": "Kỹ năng",
+                "quantity": 1,
+                "borrow_date": "2025-12-09",
+                "due_date": "2025-12-23",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Nhập Môn Mạng Máy Tính",
+                "author": "Andrew Tanenbaum",
+                "date": "2018-03-15",
+                "category": "Mạng máy tính",
+                "quantity": 2,
+                "borrow_date": "2025-12-13",
+                "due_date": "2025-12-14",
+                "action": "borrow"
+            },
+            {
+                "book_name": "Toán Rời Rạc",
+                "author": "Kenneth Rosen",
+                "date": "2019-04-02",
+                "category": "Toán",
+                "quantity": 2,
+                "borrow_date": "2025-12-13",
+                "due_date": "2025-12-20",
+                "action": "borrow"
+            }
+        ]
+    },
+    "user16@gmail.com": {
+        "password": "pass1616",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user17@gmail.com": {
+        "password": "pass1717",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user18@gmail.com": {
+        "password": "pass1818",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user19@gmail.com": {
+        "password": "pass1919",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "user20@gmail.com": {
+        "password": "pass2020",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "hongp@gmail.com": {
+        "password": "phuc2512",
+        "role": "user",
+        "borrowed_books": [],
+        "history": []
+    },
+    "Phuc123@gmail.com": {
+        "password": "phuc12@",
+        "role": "admin",
+        "borrowed_books": [],
+        "history": [],
+        "fine": 0
+    }
+}

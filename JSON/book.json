@@ -1,0 +1,452 @@
+[
+    {
+        "name": "Lập Trình Python Cơ Bản",
+        "author": "Ngô Hồng Phúc",
+        "date": "2022-01-10",
+        "category": "Lập trình",
+        "total_qty": 5,
+        "available_qty": 1,
+        "borrow_count": 16
+    },
+    {
+        "name": "C++ Toàn Tập",
+        "author": "Bjarne Stroustrup",
+        "date": "2020-05-22",
+        "category": "Lập trình",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 8
+    },
+    {
+        "name": "Cấu Trúc Dữ Liệu & Giải Thuật",
+        "author": "Trần Văn Thọ",
+        "date": "2021-09-12",
+        "category": "Kỹ thuật",
+        "total_qty": 4,
+        "available_qty": 3,
+        "borrow_count": 22
+    },
+    {
+        "name": "Toán Rời Rạc",
+        "author": "Kenneth Rosen",
+        "date": "2019-04-02",
+        "category": "Toán",
+        "total_qty": 6,
+        "available_qty": 2,
+        "borrow_count": 32
+    },
+    {
+        "name": "Nhập Môn Mạng Máy Tính",
+        "author": "Andrew Tanenbaum",
+        "date": "2018-03-15",
+        "category": "Mạng máy tính",
+        "total_qty": 5,
+        "available_qty": 3,
+        "borrow_count": 11
+    },
+    {
+        "name": "Cơ Sở Dữ Liệu",
+        "author": "Elmasri",
+        "date": "2016-08-20",
+        "category": "CSDL",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 14
+    },
+    {
+        "name": "Machine Learning Cơ Bản",
+        "author": "Tom Mitchell",
+        "date": "2015-05-05",
+        "category": "AI",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 9
+    },
+    {
+        "name": "Deep Learning",
+        "author": "Ian Goodfellow",
+        "date": "2016-12-01",
+        "category": "AI",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 15
+    },
+    {
+        "name": "Kỹ Thuật Lập Trình",
+        "author": "Dương Trí",
+        "date": "2021-02-02",
+        "category": "Lập trình",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 6
+    },
+    {
+        "name": "Thuật Toán Ứng Dụng",
+        "author": "Sedgewick",
+        "date": "2014-07-11",
+        "category": "Thuật toán",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 8
+    },
+    {
+        "name": "Phân Tích Thiết Kế Hệ Thống",
+        "author": "Pressman",
+        "date": "2013-03-22",
+        "category": "Phân tích",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 5
+    },
+    {
+        "name": "Kiến Trúc Máy Tính",
+        "author": "John Hennessy",
+        "date": "2012-09-14",
+        "category": "Kiến trúc",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 13
+    },
+    {
+        "name": "Nhập Môn AI",
+        "author": "Russell & Norvig",
+        "date": "2020-06-06",
+        "category": "AI",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 16
+    },
+    {
+        "name": "An Ninh Mạng",
+        "author": "William Stallings",
+        "date": "2019-11-01",
+        "category": "Mạng",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 10
+    },
+    {
+        "name": "Hệ Thống Nhúng",
+        "author": "Mazidi",
+        "date": "2018-04-10",
+        "category": "Điện tử",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 4
+    },
+    {
+        "name": "Điện Toán Đám Mây",
+        "author": "Rajkumar Buyya",
+        "date": "2017-05-20",
+        "category": "Cloud",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 7
+    },
+    {
+        "name": "Tối Ưu Hóa",
+        "author": "Hillier",
+        "date": "2016-10-12",
+        "category": "Toán",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 5
+    },
+    {
+        "name": "Thống Kê Ứng Dụng",
+        "author": "Freedman",
+        "date": "2015-06-30",
+        "category": "Toán",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 11
+    },
+    {
+        "name": "Phân Tích Dữ Liệu",
+        "author": "Wes McKinney",
+        "date": "2018-02-20",
+        "category": "Data",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 13
+    },
+    {
+        "name": "Java Cơ Bản",
+        "author": "James Gosling",
+        "date": "2020-03-12",
+        "category": "Lập trình",
+        "total_qty": 6,
+        "available_qty": 4,
+        "borrow_count": 7
+    },
+    {
+        "name": "Python Nâng Cao",
+        "author": "Mark Lutz",
+        "date": "2018-07-14",
+        "category": "Lập trình",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 9
+    },
+    {
+        "name": "Linux Cơ Bản",
+        "author": "Linus Torvalds",
+        "date": "2019-08-22",
+        "category": "Hệ điều hành",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 7
+    },
+    {
+        "name": "Lập Trình Web",
+        "author": "Jon Duckett",
+        "date": "2015-01-03",
+        "category": "Web",
+        "total_qty": 6,
+        "available_qty": 6,
+        "borrow_count": 14
+    },
+    {
+        "name": "ReactJS",
+        "author": "Dan Abramov",
+        "date": "2021-10-10",
+        "category": "Web",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 6
+    },
+    {
+        "name": "NodeJS",
+        "author": "Ryan Dahl",
+        "date": "2017-08-08",
+        "category": "Web",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 5
+    },
+    {
+        "name": "Mạng 5G",
+        "author": "Ericsson",
+        "date": "2021-04-04",
+        "category": "Mạng",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 3
+    },
+    {
+        "name": "IoT Cơ Bản",
+        "author": "Cisco",
+        "date": "2019-12-12",
+        "category": "IoT",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 8
+    },
+    {
+        "name": "Điện Tử Căn Bản",
+        "author": "Nguyễn Văn A",
+        "date": "2013-01-30",
+        "category": "Điện tử",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 12
+    },
+    {
+        "name": "Robot Công Nghiệp",
+        "author": "Kuka",
+        "date": "2020-09-09",
+        "category": "Robot",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 2
+    },
+    {
+        "name": "Photoshop Cơ Bản",
+        "author": "Adobe",
+        "date": "2016-01-01",
+        "category": "Thiết kế",
+        "total_qty": 6,
+        "available_qty": 6,
+        "borrow_count": 5
+    },
+    {
+        "name": "Figma UI/UX",
+        "author": "Figma Team",
+        "date": "2022-03-03",
+        "category": "Thiết kế",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 6
+    },
+    {
+        "name": "Thiết Kế Game",
+        "author": "Unity",
+        "date": "2021-06-15",
+        "category": "Game",
+        "total_qty": 3,
+        "available_qty": 1,
+        "borrow_count": 7
+    },
+    {
+        "name": "Game Engine Unreal",
+        "author": "Epic",
+        "date": "2020-12-12",
+        "category": "Game",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 3
+    },
+    {
+        "name": "AI for Games",
+        "author": "Ian Millington",
+        "date": "2017-10-01",
+        "category": "Game",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 4
+    },
+    {
+        "name": "Phân Tích Kinh Doanh",
+        "author": "McKinsey",
+        "date": "2019-03-15",
+        "category": "Kinh tế",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 7
+    },
+    {
+        "name": "Kinh Tế Vĩ Mô",
+        "author": "Samuelson",
+        "date": "2014-07-07",
+        "category": "Kinh tế",
+        "total_qty": 6,
+        "available_qty": 3,
+        "borrow_count": 16
+    },
+    {
+        "name": "Maketing Căn Bản",
+        "author": "Philip Kotler",
+        "date": "2016-08-10",
+        "category": "Marketing",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 9
+    },
+    {
+        "name": "Quản Trị Kinh Doanh",
+        "author": "Peter Drucker",
+        "date": "2013-11-11",
+        "category": "Quản trị",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 12
+    },
+    {
+        "name": "Kỹ Năng Mềm",
+        "author": "Dale Carnegie",
+        "date": "2018-02-02",
+        "category": "Kỹ năng",
+        "total_qty": 7,
+        "available_qty": 7,
+        "borrow_count": 14
+    },
+    {
+        "name": "Thuật Toán Tối Ưu Hóa Hiện Đại",
+        "author": "Stephen Boyd",
+        "date": "2021-05-11",
+        "category": "Thuật toán",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 3
+    },
+    {
+        "name": "Khoa Học Dữ Liệu Toàn Tập",
+        "author": "Joel Grus",
+        "date": "2020-04-20",
+        "category": "Data",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 8
+    },
+    {
+        "name": "Lập Trình Mobile với Flutter",
+        "author": "Google Team",
+        "date": "2022-08-18",
+        "category": "Mobile",
+        "total_qty": 6,
+        "available_qty": 6,
+        "borrow_count": 5
+    },
+    {
+        "name": "An Toàn Thông Tin Cơ Bản",
+        "author": "Bruce Schneier",
+        "date": "2019-02-14",
+        "category": "Mạng",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 7
+    },
+    {
+        "name": "Xử Lý Ảnh Số",
+        "author": "Gonzalez & Woods",
+        "date": "2018-09-09",
+        "category": "AI",
+        "total_qty": 3,
+        "available_qty": 3,
+        "borrow_count": 6
+    },
+    {
+        "name": "Blockchain Cơ Bản",
+        "author": "Nakamoto Labs",
+        "date": "2021-01-01",
+        "category": "Công nghệ",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 5
+    },
+    {
+        "name": "Phát Triển Backend với Django",
+        "author": "Adrian Holovaty",
+        "date": "2020-07-12",
+        "category": "Web",
+        "total_qty": 6,
+        "available_qty": 6,
+        "borrow_count": 10
+    },
+    {
+        "name": "Trí Tuệ Nhân Tạo Ứng Dụng",
+        "author": "Andrew Ng",
+        "date": "2019-10-10",
+        "category": "AI",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 9
+    },
+    {
+        "name": "Hệ Điều Hành Nâng Cao",
+        "author": "Abraham Silberschatz",
+        "date": "2017-12-02",
+        "category": "Hệ điều hành",
+        "total_qty": 4,
+        "available_qty": 4,
+        "borrow_count": 6
+    },
+    {
+        "name": "Kỹ Thuật Phần Mềm Hiện Đại",
+        "author": "Ian Sommerville",
+        "date": "2016-03-25",
+        "category": "Phần mềm",
+        "total_qty": 5,
+        "available_qty": 5,
+        "borrow_count": 11
+    },
+    {
+        "name": "Tâm Lý Học Lập Trình",
+        "author": "Gerald Weinberg",
+        "date": "2015-09-01",
+        "category": "Kỹ năng",
+        "total_qty": 5,
+        "available_qty": 4,
+        "borrow_count": 1
+    }
+]
